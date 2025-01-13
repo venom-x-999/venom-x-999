@@ -6,6 +6,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/venom-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="venom-x" height="30" width="40" /></a>
+<a href="https://instagram.com/venom_x99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venom_x99" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/venom999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="venom999" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/edurok0rgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="edurok0rgl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
